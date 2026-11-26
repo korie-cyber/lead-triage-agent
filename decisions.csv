@@ -1,0 +1,21 @@
+﻿lead_id,decision,reason,confidence
+L-001,QUALIFY,"BrightCart is a Series B ecommerce SaaS with a clear budget and specific paid acquisition and landing page testing needs, ready to start within 30 days.",0.95
+L-002,REJECT,"The lead is a student asking for advice, not a business prospect.",1
+L-003,QUALIFY,"The lead is from a real company with a substantial budget and clear interest in services, making it a good-fit prospect for sales to contact now.",0.9
+L-004,NURTURE,"The lead has a clear budget and a marketing need but lacks an email for direct contact, indicating they are a real prospect not yet ready for immediate sales outreach.",0.8
+L-005,NURTURE,The lead is a real company interested in lead generation but has no clear budget or ask yet.,0.9
+L-006,REJECT,"Lead makes demands and claims about approvals before any relationship exists, which is a risk signal.",0.9
+L-007,ESCALATE,"The lead is a referral and involves a significant company and project, requiring human review.",0.9
+L-008,ESCALATE,"Lead claims to be a VP at a Fortune 500 retailer, ready to sign, but withholds company name, requiring human verification.",0.9
+L-009,QUALIFY,"The lead is a real company with a clear marketing need and an approved budget, making it a good fit for sales to contact now.",0.95
+L-010,REJECT,The lead submission is gibberish and does not provide meaningful information or a real inquiry.,1
+L-011,NURTURE,The lead has a substantial budget and is gathering information but has not made a clear ask or commitment yet.,0.9
+L-012,QUALIFY,"The lead is a real company with a clear marketing need and a substantial budget, making it a good fit for sales contact.",0.9
+L-013,REJECT,"Lead demands detailed materials before any relationship exists, which is not worth pursuing.",0.9
+L-014,NURTURE,Pre-seed startup with a small current budget and plans to scale later fits nurturing until ready to spend more.,0.9
+L-015,NURTURE,The lead has a clear budget and a real business need but is not yet ready for immediate sales contact.,0.9
+L-016,QUALIFY,"The lead is a real company with a clear budget and a relevant marketing need, making them a good fit for sales contact.",0.9
+L-017,ESCALATE,"Lead is a referral and mentions compliance requirements, so a human should review before proceeding.",0.9
+L-018,QUALIFY,"The lead is from a real company with a substantial monthly budget and a clear contact, making it a good-fit prospect for sales to contact now.",0.9
+L-019,REJECT,"The lead is a GDPR data deletion request, not a marketing prospect.",1
+L-020,ESCALATE,"The lead mentions an overdue invoice and includes a suspicious attachment link, requiring human review for potential payment or security issues.",0.9
